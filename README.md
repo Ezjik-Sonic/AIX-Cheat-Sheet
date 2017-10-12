@@ -6,3 +6,5 @@ Manual, HowTo, FAQ
 [Простой CLI парсер для NMON](https://github.com/Ezjik-Sonic/NMON-pars)
 
 [SVMON - сборник комманд](https://github.com/Ezjik-Sonic/AIX-Cheat-Sheet/wiki/SVMON---commands)
+
+[Перехват пользовательской сессии SSH](https://github.com/Ezjik-Sonic/AIX-Cheat-Sheet/wiki/Interception-to-SSH-session)
