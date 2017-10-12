@@ -5,4 +5,4 @@ Manual, HowTo, FAQ
 
 [Простой CLI парсер для NMON](https://github.com/Ezjik-Sonic/NMON-pars)
 
-[SVMON - сборник комманд](SVMON - commands)
+[SVMON - сборник комманд](https://github.com/Ezjik-Sonic/AIX-Cheat-Sheet/wiki/SVMON---commands)
